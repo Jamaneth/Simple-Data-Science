@@ -1,0 +1,23 @@
+# Gradient boosting {#gradboost}
+
+## Fundamental idea
+
+## Basic algorithm
+
+## An implementation of XGBoost
+
+```{r}
+test = data.frame("C1" = c("a", "b"), "C2" = c("c", "d"))
+test
+```
+
+```{r}
+paste(test$C1, test$C2, sep = "_") %>%
+  strsplit("_") %>%
+  lapply(as.vector)
+```
+
+```{r}
+library(tidyverse)
+```
+

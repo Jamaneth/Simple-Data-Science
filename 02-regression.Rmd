@@ -1,0 +1,13 @@
+# Regression {#reg}
+
+## Linear regression
+
+## Logistic regression
+
+## Polynomial regression
+
+## Constraints: Ridge, Lasso, Elastic Net
+
+## Non-linear regression
+
+## Random and fixed effects
